@@ -8,10 +8,10 @@
 		<version>2.6.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.thilakshan</groupId>
-	<artifactId>PhotoAppApiUsers</artifactId>
+	<groupId>com.thilakshan.photoapp.api.account</groupId>
+	<artifactId>PhotoAppApiAccountManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PhotoAppApiUsers</name>
+	<name>PhotoAppApiAccountManagement</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
