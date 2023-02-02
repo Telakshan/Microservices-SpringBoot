@@ -10,7 +10,7 @@ public class UserController {
 
     @GetMapping("/status/check")
     public String status(){
-        return "working";
+        return "user service working";
     }
 
 }
